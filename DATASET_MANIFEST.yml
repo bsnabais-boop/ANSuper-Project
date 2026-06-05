@@ -22,7 +22,7 @@ governance_notes:
 
 files:
   - name: hotel_bookings_course_release_v1.csv
-    sha256: d10cdeb07de9309007f528d6499a2c0467ae7a6b287b80ffd759e11e61801639
+    sha256: 7c2ae42a7353905ea136e5c2287f17c92c5435826598bfbb8491c6f0c7b1fc06
     bytes: 16855599
   - name: column_roles.csv
     sha256: e1fbd73a324ce29154c4a68e4ea96ed66ac7f5f2c09a0ad5fccb6711a3dbf3fe
